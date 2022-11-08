@@ -1,4 +1,4 @@
-### Hi there 👋
+![Profile Views](https://komarev.com/ghpvc/?username=Bilal-Bangash&style=for-the-badge)
 
 <!--
 **Bilal-Bangash/Bilal-Bangash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
