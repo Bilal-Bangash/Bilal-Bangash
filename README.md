@@ -1,6 +1,8 @@
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=Bilal-Bangash&style=for-the-badge) -->
 ### Hi there 👋 I'm Muhammad Bilal Banagsh,
 
+ [![GitHub Streak](https://streak-stats.demolab.com?user=Bilal-Bangash&theme=onedark&hide_border=true)](https://git.io/streak-stats)
+
 <img src="https://i.pinimg.com/originals/ef/8b/bd/ef8bbd4554dedcc2fd1fd15ab0ebd7a1.gif" width="480" height="480"></img>
 
 
