@@ -51,7 +51,6 @@
 - 👯 I’m looking to collaborate on open-source projects related to Web Development, especially those that impact education.
 - 💬 Ask me about Web Development, my journey in coding, or the latest tech trends.
 - 📫 How to reach me: [muhammadbilalbangash@hotmail.com](mailto:muhammadbilalbangash@hotmail.com)
-- 😄 Pronouns: He/Him
 
 <!---
 **Bilal-Bangash/Bilal-Bangash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
