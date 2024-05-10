@@ -9,7 +9,7 @@
   <summary>💻 GitHub Profile Stats</summary>
   <div>
   <samp>
-    <h2 align="center"> Github stats </h2>
+    <h1 align="center"> Github stats </h1>
       <br/>
     <details open>
   <summary><h3>Languages</h3></summary>
