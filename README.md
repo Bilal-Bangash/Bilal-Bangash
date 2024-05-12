@@ -12,7 +12,7 @@
     <h3 align="center"> Github stats </h3>
       <br/>
     <details open>
-  <summary><h3>Languages</h3></summary>
+  <summary><h3>Programming Languages</h3></summary>
             <p align="center">
         <a href="https://github.com/Bilal-Bangash/">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilal-Bangash&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
