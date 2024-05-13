@@ -1,5 +1,5 @@
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=Bilal-Bangash&style=for-the-badge) -->
-### Hi there 👋 I'm Muhammad Bilal Banagsh, Frontend Engineer
+### Hi there 👋 I’m a Frontend Developer with 4+ years of experience, skilled in React, Gatsby, Next, HTML, CSS, and JavaScript.
 
  <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=Bilal-Bangash&theme=onedark&hide_border=true)](https://git.io/streak-stats) -->
  <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=Bilal-Bangash&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p> -->
