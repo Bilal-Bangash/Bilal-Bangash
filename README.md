@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=Bilal-Bangash&style=for-the-badge) 
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=Bilal-Bangash&style=for-the-badge) -->
 ### Hi there 👋 I’m a Frontend Developer with 4+ years of experience, skilled in ReactJS/TS, Gatsby, Next.
 
  <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=Bilal-Bangash&theme=onedark&hide_border=true)](https://git.io/streak-stats) -->
