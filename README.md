@@ -51,9 +51,9 @@
 
 
 - 🔭 I’m currently working on developing a cutting-edge web application using React, Gatsby, and NextJS.
-- 🌱 I’m currently learning/improving Backend skills using Node JS/TS and diving deeper into GraphQL.
+- 🌱 I’m learning/improving Backend skills using Node JS/TS and diving deeper into GraphQL.
 - 👯 I’m looking to collaborate on open-source projects related to Web Development, especially those that impact education.
 - 💬 Ask me about Web Development, my journey in coding, or the latest tech trends.
-- [Visit my Portfolio](https://mbbangash.netlify.app/)
+- [Visit My Portfolio](https://mbbangash.netlify.app/)
 - 📫 How to reach me: [muhammadbilalbangash@hotmail.com](mailto:muhammadbilalbangash@hotmail.com)
 
