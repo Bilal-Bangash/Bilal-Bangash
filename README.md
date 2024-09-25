@@ -2,7 +2,6 @@
 ### Hi there 👋 I’m a Software Engineer with 5+ years of experience, skilled in ReactJS/TS, Gatsby, Next.
 
 
-
  <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=Bilal-Bangash&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p> -->
 
 
