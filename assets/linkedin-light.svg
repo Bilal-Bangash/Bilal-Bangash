@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="56" viewBox="0 0 320 56">
+<rect x="1" y="1" width="318" height="54" rx="6" fill="#f6f8fa" stroke="#d0d7de" stroke-width="2"/>
+<rect x="6" y="50" width="308" height="3" rx="1.5" fill="#0a3069"/>
+<g transform="translate(96,14)"><rect x="2" y="2" width="20" height="20" rx="3" fill="#0a3069"/><path d="M7 10v7M7 7v.01M11 17v-7M11 13a3 3 0 0 1 6 0v4" fill="none" stroke="#f6f8fa" stroke-width="2.2" stroke-linecap="round"/></g>
+<text x="132" y="34" font-family="ConsolasFallback,Consolas,Menlo,monospace" font-size="19" fill="#24292f">LINKEDIN</text>
+</svg>
